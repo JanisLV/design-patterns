@@ -17,9 +17,10 @@ Presentation is available under [this link](https://gitlab.com/sda-international
 
 ## Books
 
-1. Head first Design Patterns
-2. Clean code
-3. Effective Java
+1. **The art of readable code**
+2. Head first Design Patterns
+3. Clean code
+4. Effective Java
 
 ## Links
 
